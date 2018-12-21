@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "556899211068",
+    "firebase_url": "https://i-intellect-bolier-plate.firebaseio.com",
+    "project_id": "i-intellect-bolier-plate",
+    "storage_bucket": "i-intellect-bolier-plate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556899211068:android:595c67044d305b25",
+        "android_client_info": {
+          "package_name": "com.iintellect.boilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556899211068-s54b45naaso4dok9pkepeb98u8le42ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD3ztAa926eRngjzYeUVEIx-zPbM0M81U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
